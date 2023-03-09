@@ -2,8 +2,6 @@
 
 The DevOps Collective's OnRamp program returns for another year with a renewed focus and direction. This unique program is targeted to the new or up-and-coming IT professional looking to get a head start on automation, DevOps, and cloud technologies, as well as learning more about what a career in IT looks like today. The content will mix traditional presentations, demonstrations, and hands-on exercises led by veteran IT professionals.
 
->This is *not* an instructor-led PowerShell fundamentals course.
-
 OnRamp attendees will enjoy a mix of content from the main conference track and the OnRamp program. Conference and OnRamp attendees are expected to adhere to a single track. Due to the nature of the OnRamp agenda, jumping between events is not allowed.
 
 ## Agenda
@@ -19,7 +17,7 @@ OnRamp attendees will have their own agenda that should include these topics:
 + Source control with Git and GitHub
 + DevOps Principles
 
-This is not a complete outline; some content is subject to change. There will be opportunities for hands-on exercises. Detailed requirements will be announced later, but if you can run PowerShell 7 and Visual Studio Code, you should be fine.
+This is not a complete outline; some content is subject to change.
 
 ## Pre-Conference Event
 
