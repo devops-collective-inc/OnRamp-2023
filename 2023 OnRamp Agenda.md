@@ -56,7 +56,7 @@ Some sessions may be nothing more than a conversation with attendees.
 | 3:15-4:00 | __*Build Your Brand! Become a Resource, Networking, and Social Superstar!*__[^1] |
 | 4:00-4:15 | *Break* |
 | 4:15-5:00 | __Learning PowerShell is Like Running a Marathon__ (*Steven Judd*) |
-| 5:00 | *PowerShell Summit Welcome* |
+| 5:15 | *PowerShell Summit Happy Hour* (Washington) |
 
 ## Tuesday 25 April
 
@@ -66,15 +66,16 @@ Some sessions may be nothing more than a conversation with attendees.
 | 9:00-9:45 | __Sky's the Limit...Level Up Your Career to the Cloud__ (*Michael Bender*) |
 | 9:45-10:30 | __Welcome to the Family__ (*James Petty*)
 | 10:30-10:45 | *Break* |
-| 11:00-11:45 | __*Time to Update Your Resume—Here's How*__[^1] |
+| 11:00-11:45 | __*Your Code is Flawless, But How YOU Doing? *__[^1] |
 | 12:00-1:00 | *Lunch* |
-| 1:00-1:45   | __The Role of Certification__ (*Tim Warner*) |
+| 1:00-1:45   | __The Role of Certification__ (*Tim Warner*)[^2] |
 | 1:45-2:00 | *Break* |
-| 2:00-2:45  | __Interview Skills for IT Pros__ (*Don Jones*)|
+| 2:00-2:45  | __Intro to Pester__ (*Jeff Hicks*)|
 | 2:45-3:15 | *Break* |
 | 3:15-4:00 | __Intro to Containers and Kubernetes__ (*Anthony Nocentino*) |
-| 4:00-4:45  | __Intro to Pester__ (*Jeff Hicks*)|
-| 4:45-5:00 | __Daily Wrap-Up and Questions__ (*Jeff Hicks*) |
+| 4:00-4:15 | __Daily Wrap-Up and Questions__ (*Jeff Hicks*) |
+| 4:15-5:00 | __Open Time__ | |
+| 6:00-8:00 | *Pure Storage Happy Hour* (Lucky Strike Bowling Alley) |
 
 ## Wednesday 26 April
 
@@ -90,6 +91,7 @@ Some sessions may be nothing more than a conversation with attendees.
 | 2:45-3:15 | *Break* |
 | 3:15-4:00   | __Intro to Package Management__ (*Josh King*) |
 | 4:15-5:00   | __Intro to VS Code__ (*Tim Warner*) |
+| 7:00-10:00 | *PowerShell Summit Closing Reception* |
 
 ## Thursday 27 April
 
@@ -103,7 +105,8 @@ Some sessions may be nothing more than a conversation with attendees.
 | 11:00-11:45 | __The PowerShell Community__ (*Andrew Pla*) |
 | 11:45-12:00 | __OnRamp Closing Remarks and Your Next Steps__ (*Jeff Hicks*) |
 | 12:00-1:00 | *Lunch* |
-| 1:00-1:45 | Open Time |
-| 2:00 | __Closing Events__[^1] |
+| 1:00-1:45 | __Open Time__ |
+| 2:00 | __Doc-A-Thon/Happy Hour__[^1] |
 
 [^1]: https://powershellsummit.org/schedule
+[^2]: via Zoom
