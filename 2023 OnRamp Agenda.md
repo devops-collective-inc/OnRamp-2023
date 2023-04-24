@@ -64,7 +64,6 @@ Some sessions may be nothing more than a conversation with attendees.
 |------:|------|
 | 8:00-9:00  | *Breakfast* |
 | 9:00-10:30 | __*PowerShell & Your Next Career Steps: Oh, the Places You'll Go!*__[^1] | |
-| 9:45-10:30 | __Welcome to the Family__ (*James Petty*)
 | 10:30-10:45 | *Break* |
 | 11:00-11:45 | __*Your Code is Flawless, But How YOU Doing? *__[^1] |
 | 12:00-1:00 | *Lunch* |
@@ -73,8 +72,9 @@ Some sessions may be nothing more than a conversation with attendees.
 | 2:00-2:45  | __Intro to Pester__ (*Jeff Hicks*)|
 | 2:45-3:15 | *Break* |
 | 3:15-4:00 | __Intro to Containers and Kubernetes__ (*Anthony Nocentino*) |
-| 4:00-4:15 | __Daily Wrap-Up and Questions__ (*Jeff Hicks*) |
-| 4:15-5:00 | __Open Time__ | |
+| 4:00-4:15 | __Welcome to the Family__ (*James Petty*)
+| 4:15-4:30 | __Daily Wrap-Up and Questions__ (*Jeff Hicks*) |
+| 4:30-5:00 | __Open Time__ | |
 | 6:00-8:00 | *Pure Storage Happy Hour* (Lucky Strike Bowling Alley) |
 
 ## Wednesday 26 April
