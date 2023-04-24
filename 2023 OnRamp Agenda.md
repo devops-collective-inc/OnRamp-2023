@@ -12,7 +12,7 @@ You are __not__ permitted to jump back and forth between OnRamp and main confere
 
 We will be using the OnRamp Slack channel for communications.
 If you have questions or comments that you don't feel comfortable asking during the day, please use this channel.
-This is also a great way to network with other attendees.
+The main conference Slack channels are also great ways to network with other attendees.
 Presentation material, including slides and sample code will be available on Github at [https://github.com/devops-collective-inc/OnRamp-2023](https://github.com/devops-collective-inc/OnRamp-2023).
 You don't need a Github account to access the site.
 You will able able to download a zip file of all content from the site.
@@ -63,7 +63,7 @@ Some sessions may be nothing more than a conversation with attendees.
 |Schedule | Event |
 |------:|------|
 | 8:00-9:00  | *Breakfast* |
-| 9:00-9:45 | __Sky's the Limit...Level Up Your Career to the Cloud__ (*Michael Bender*) |
+| 9:00-10:30 | __*PowerShell & Your Next Career Steps: Oh, the Places You'll Go!*__[^1] | |
 | 9:45-10:30 | __Welcome to the Family__ (*James Petty*)
 | 10:30-10:45 | *Break* |
 | 11:00-11:45 | __*Your Code is Flawless, But How YOU Doing? *__[^1] |
@@ -82,7 +82,7 @@ Some sessions may be nothing more than a conversation with attendees.
 |Schedule | Event |
 |------:|------|
 | 8:00-9:00 | *Breakfast* |
-| 9:00-10:30 | __*PowerShell & Your Next Career Steps: Oh, the Places You'll Go!*__[^1] | |
+| 9:00-9:45 | __Sky's the Limit...Level Up Your Career to the Cloud__ (*Michael Bender*) |
 | 10:30-11:00 | *Break* |
 | 11:00-11:45 | __IT Soft Skills__ (*Phil Bossman*) |
 | 12:00-1:00  | *Lunch* |
