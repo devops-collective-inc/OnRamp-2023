@@ -98,9 +98,9 @@ Some sessions may be nothing more than a conversation with attendees.
 |Schedule | Event |
 |------:|------|
 | 8:00-9:00 | *Breakfast* |
-| 9:00-9:45   | __Career Perspectives__ (*Paula Kingsley*) |
+| 9:00-9:45   | __PowerShell Scripting and Toolmaking__ (*Jeff Hicks*) |
 | 9:45-10:00  |  *Break* |
-| 10:00-10:45 | __PowerShell Scripting and Toolmaking__ (*Jeff Hicks*) |
+| 10:00-10:45 | __Career Perspectives__ (*Paula Kingsley*) |
 | 10:45-11:00 | *Break* |
 | 11:00-11:45 | __The PowerShell Community__ (*Andrew Pla*) |
 | 11:45-12:00 | __OnRamp Closing Remarks and Your Next Steps__ (*Jeff Hicks*) |
