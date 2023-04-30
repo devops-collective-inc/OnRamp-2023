@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Training\\OnRamp\\2023\\session-material\\Intro-to-Containers\\demos\\v1\\webapp\\obj\\Debug\\netcoreapp7.0\\project.razor.json",
+  "FilePath": "c:\\Training\\OnRamp\\2023\\session-material\\Intro-to-Containers\\demos\\v1\\webapp\\webapp.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "webapp",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
